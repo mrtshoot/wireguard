@@ -203,7 +203,7 @@ docker cp ipsec-vpn-server:/etc/ipsec.d/vpn-gen.env ./
 
 开始使用自己的专属 VPN! :sparkles::tada::rocket::sparkles:
 
-如果你喜欢这个项目，可以 [表达你的支持或感谢](https://coindrop.to/hwdsl2)。
+你喜欢这个项目吗？支持它！[捐赠任意数量的加密货币或表示感谢](https://coindrop.to/hwdsl2)。
 
 <a href="https://coindrop.to/hwdsl2" target="_blank"><img src="docs/images/embed-button.png" height="38" width="153" alt="Coindrop.to me"></img></a>
 
